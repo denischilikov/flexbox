@@ -14,18 +14,15 @@ body {
     background-color: #5c7aff;
     width: 250px;
     margin: 10px;
-    padding-left: 15px;
-    padding-top: 5px;
-    padding-bottom: 5px;
+    padding: 5px 0px 5px 15px;
+
 }
 .initial {
     flex: initial;
     background-color: #5c7aff;
     width: 250px;
     margin: 10px;
-    padding-left: 15px;
-    padding-top: 5px;
-    padding-bottom: 5px;
+    padding: 5px 0px 5px 15px;
 }
 
 .none {
@@ -33,9 +30,7 @@ body {
     background-color: #5c7aff;
     width: 250px;
     margin: 10px;
-    padding-left: 15px;
-    padding-top: 5px;
-    padding-bottom: 5px;
+    padding: 5px 0px 5px 15px;
 
 }
 .none-right {
@@ -43,9 +38,7 @@ body {
     background-color: #5c7aff;
     width: 250px;
     margin: 10px;
-    padding-left: 15px;
-    padding-top: 5px;
-    padding-bottom: 5px;
+    padding: 5px 0px 5px 15px;
     margin: 10px 0px 10px auto;
 }
 .four {
@@ -53,9 +46,10 @@ body {
     background-color: #5c7aff;
     width: 250px;
     margin: 10px;
-    padding-left: 15px;
-    padding-top: 5px;
-    padding-bottom: 5px;
+    padding: 5px 0px 5px 5px;
+    /*padding-left: 15px;*/
+    /*padding-top: 5px;*/
+    /*padding-bottom: 5px;*/
 }
 
 .two {
@@ -63,9 +57,7 @@ body {
     background-color: #5c7aff;
     width: 250px;
     margin: 10px;
-    padding-left: 15px;
-    padding-top: 5px;
-    padding-bottom: 5px;
+    padding: 5px 0px 5px 5px;
 }
 
 .one {
@@ -73,7 +65,5 @@ body {
     background-color: #5c7aff;
     width: 250px;
     margin: 10px;
-    padding-left: 15px;
-    padding-top: 5px;
-    padding-bottom: 5px;
+    padding: 5px 0px 5px 5px;
 }
