@@ -1,0 +1,65 @@
+/** {*/
+/*}*/
+.flex-container {
+    display: flex;
+    margin: 20px;
+
+}
+.auto{
+    flex: auto;
+    background-color: bisque;
+    width: 250px;
+    margin: 25px;
+    padding-left: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.initial {
+    flex: initial;
+    background-color: bisque;
+    width: 250px;
+    margin: 25px;
+    padding-left: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.none {
+    flex: none;
+    background-color: bisque;
+    width: 250px;
+    margin: 25px;
+    padding-left: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+}
+.four {
+    flex: 4;
+    background-color: bisque;
+    width: 250px;
+    margin: 25px;
+    padding-left: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.two {
+    flex: 2;
+    background-color: bisque;
+    width: 250px;
+    margin: 25px;
+    padding-left: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.one {
+    flex: 1;
+    background-color: bisque;
+    width: 250px;
+    margin: 25px;
+    padding-left: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
