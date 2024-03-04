@@ -1,13 +1,12 @@
-/** {*/
-/*}*/
 .flex-container {
     display: flex;
+    background-color: rgba(70,97,255,0.05);
     margin: 20px;
 
 }
 .auto{
     flex: auto;
-    background-color: bisque;
+    background-color: #5c7aff;
     width: 250px;
     margin: 25px;
     padding-left: 15px;
@@ -16,7 +15,7 @@
 }
 .initial {
     flex: initial;
-    background-color: bisque;
+    background-color: #5c7aff;
     width: 250px;
     margin: 25px;
     padding-left: 15px;
@@ -26,7 +25,7 @@
 
 .none {
     flex: none;
-    background-color: bisque;
+    background-color: #5c7aff;
     width: 250px;
     margin: 25px;
     padding-left: 15px;
@@ -36,7 +35,7 @@
 }
 .four {
     flex: 4;
-    background-color: bisque;
+    background-color: #5c7aff;
     width: 250px;
     margin: 25px;
     padding-left: 15px;
@@ -46,7 +45,7 @@
 
 .two {
     flex: 2;
-    background-color: bisque;
+    background-color: #5c7aff;
     width: 250px;
     margin: 25px;
     padding-left: 15px;
@@ -56,7 +55,7 @@
 
 .one {
     flex: 1;
-    background-color: bisque;
+    background-color: #5c7aff;
     width: 250px;
     margin: 25px;
     padding-left: 15px;
