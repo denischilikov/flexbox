@@ -1,6 +1,6 @@
 .flex-container {
     display: flex;
-    background-color: rgba(70,97,255,0.05);
+    background-color: rgba(70,97,255,0.1);
     margin: 20px;
 
 }
@@ -8,7 +8,7 @@
     flex: auto;
     background-color: #5c7aff;
     width: 250px;
-    margin: 25px;
+    margin: 10px;
     padding-left: 15px;
     padding-top: 5px;
     padding-bottom: 5px;
@@ -17,7 +17,7 @@
     flex: initial;
     background-color: #5c7aff;
     width: 250px;
-    margin: 25px;
+    margin: 10px;
     padding-left: 15px;
     padding-top: 5px;
     padding-bottom: 5px;
@@ -27,7 +27,7 @@
     flex: none;
     background-color: #5c7aff;
     width: 250px;
-    margin: 25px;
+    margin: 10px;
     padding-left: 15px;
     padding-top: 5px;
     padding-bottom: 5px;
@@ -37,7 +37,7 @@
     flex: 4;
     background-color: #5c7aff;
     width: 250px;
-    margin: 25px;
+    margin: 10px;
     padding-left: 15px;
     padding-top: 5px;
     padding-bottom: 5px;
@@ -47,7 +47,7 @@
     flex: 2;
     background-color: #5c7aff;
     width: 250px;
-    margin: 25px;
+    margin: 10px;
     padding-left: 15px;
     padding-top: 5px;
     padding-bottom: 5px;
@@ -57,7 +57,7 @@
     flex: 1;
     background-color: #5c7aff;
     width: 250px;
-    margin: 25px;
+    margin: 10px;
     padding-left: 15px;
     padding-top: 5px;
     padding-bottom: 5px;
